@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\mdbul\source\repos\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\mdbul\source\repos\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\mdbul\source\repos\VendingMachine\bin\Debug\VendingMachine.xml
+C:\Users\mdbul\source\repos\VendingMachine\obj\Debug\VendingMachine.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\VendingMachine\obj\Debug\VendingMachine.frmVendingMachine.resources
+C:\Users\mdbul\source\repos\VendingMachine\obj\Debug\VendingMachine.Resources.resources
+C:\Users\mdbul\source\repos\VendingMachine\obj\Debug\VendingMachine.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\VendingMachine\obj\Debug\VendingMachine.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\mdbul\source\repos\VendingMachine\obj\Debug\VendingMachine.xml
+C:\Users\mdbul\source\repos\VendingMachine\obj\Debug\VendingMachine.pdb
